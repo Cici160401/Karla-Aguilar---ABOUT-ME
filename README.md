@@ -22,12 +22,11 @@
 <a href="https://www.leetcode.com/cici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cici" height="30" width="40" /></a>
 </p>
 .
-### Frontend&nbsp;/&nbsp;UI
+<!-- ====== FRONTEND ====== -->
 <p align="left">
   <!-- Frameworks & libs -->
   <a href="https://angular.io"              target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg"                       alt="Angular"      width="40" height="40"/></a>
-  <a href="https://reactjs.org"             target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"        width="40" height="40"/></a>
-  <a href="https://nextjs.org"              target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"                              alt="Next.js"      width="40" height="40"/></a>
+  <a href="https://reactjs.org"             target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"        width="40" height="40"/></a>  
   <a href="https://getbootstrap.com"        target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"   width="40" height="40"/></a>
   <a href="https://flutter.dev"             target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"                  alt="Flutter"      width="40" height="40"/></a>
   <!-- Lenguajes -->
@@ -52,8 +51,7 @@
 <p align="left">
   <a href="https://www.mongodb.com"         target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"                 alt="MongoDB"      width="40" height="40"/></a>
   <a href="https://www.mysql.com"           target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"                     alt="MySQL"        width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"      target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"           alt="PostgreSQL"   width="40" height="40"/></a>
-  <a href="https://firebase.google.com"     target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"                     alt="Firebase"     width="40" height="40"/></a>
+  <a href="https://www.postgresql.org"      target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"           alt="PostgreSQL"   width="40" height="40"/></a>  
 </p>
 
 <!-- ====== DEVOPS & CLOUD ====== -->
@@ -66,8 +64,7 @@
 
 <!-- ====== TESTING & QA ====== -->
 ### Testing&nbsp;/&nbsp;QA
-<p align="left">
-  <a href="https://www.cypress.io"          target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"  alt="Cypress"      width="40" height="40"/></a>
+<p align="left"> 
   <a href="https://www.selenium.dev"        target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"      alt="Selenium"     width="40" height="40"/></a>
   <a href="https://postman.com"             target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"                 alt="Postman"      width="40" height="40"/></a>
 </p>
@@ -85,8 +82,7 @@
 
 <!-- ====== DISEÑO / 3D / GAME DEV ====== -->
 ### Diseño&nbsp;/&nbsp;3D&nbsp;/&nbsp;Game&nbsp;Dev
-<p align="left">
-  <a href="https://www.figma.com"           target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"                           alt="Figma"        width="40" height="40"/></a>
+<p align="left">  
   <a href="https://www.blender.org"         target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender"      width="40" height="40"/></a>
   <a href="https://unity.com"               target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"                       alt="Unity"        width="40" height="40"/></a>
 </p>
