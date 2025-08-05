@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [Github Repository](Github Repository)
+- 👨‍💻 All of my projects are available at my Github Repository.
 
 - 📫 How to reach me **karlitaaguilar2012@gmail.com**
 
