@@ -21,7 +21,7 @@
 <a href="https://kaggle.com/karlaaguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karlaaguilar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cici" height="30" width="40" /></a>
 </p>
-.
+
 <!-- ====== FRONTEND ====== -->
 ### Frontend&nbsp;
 <p align="left">
