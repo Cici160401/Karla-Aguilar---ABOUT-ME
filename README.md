@@ -23,6 +23,7 @@
 </p>
 .
 <!-- ====== FRONTEND ====== -->
+### Frontend&nbsp;/&nbsp;
 <p align="left">
   <!-- Frameworks & libs -->
   <a href="https://angular.io"              target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg"                       alt="Angular"      width="40" height="40"/></a>
