@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cici160401" alt="cici160401" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cici160401&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-->[![trophy](https://github-profile-trophy.vercel.app/?username=cici160401&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Portfolio website using FastAPI and React.**
