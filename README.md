@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my Github Repository.
 
-- 📫 How to reach me **karlitaaguilar2012@gmail.com**
+- 📫 How to reach me **raliuga2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
