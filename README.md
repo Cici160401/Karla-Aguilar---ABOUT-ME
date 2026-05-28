@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio website using FastAPI and React.**
+- 🔭 I’m currently working as a Full Stack Developer with .NET in API development and VueJs
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and MLOps.**
 
