@@ -71,36 +71,6 @@ Completed Quests:
 
 ---
 
-# 🖥️ Featured Projects
-
-## 🕷️ Spider Venom Classification
-
-Deep learning + computer vision project focused on classifying phospholipases from spider venom proteins using structural images.
-
----
-
-## 🌱 PlantsGrow AI
-
-Agricultural intelligence platform for crop monitoring and disease detection.
-
-Combining AI with real-world agriculture.
-
----
-
-## 📊 Banana Export Forecasting
-
-Forecasting agricultural exports using time series analysis and predictive models.
-
----
-
-## 🎵 Swiftie API
-
-Because not every project has to be serious.
-
-Taylor Swift themed API built for fun and learning.
-
----
-
 # 💾 Tech Collection
 
 ### Backend
@@ -146,16 +116,14 @@ Taylor Swift themed API built for fun and learning.
 ```txt
 ✦ AI Research
 ✦ Agriculture Technology
-✦ Data Analytics
 ✦ Computer Vision
-✦ Protein Structures
 ✦ Open Source
 ```
 
 ### Current Status
 
 ```txt
-Listening to: Taylor Swift
+Listening to: Taylor Swift and Cats
 Drinking: Coffee
 Thinking about: Neural Networks
 Fighting against: Bugs
@@ -167,7 +135,7 @@ Fighting against: Bugs
 
 - Oxford Summer School on Machine Learning Fundamentals
 - Deep Learning School @ Universidad de Buenos Aires
-- Research in Computer Vision for Protein Classification
+- Attendee at SALA 2026
 - Conference publications during undergraduate studies
 - Exploring AI applications in agriculture
 
@@ -244,8 +212,8 @@ Feel free to reach out.
 ```txt
 ╔════════════════════════════════════╗
 ║                                    ║
-║   The internet is cooler when      ║
-║   people build strange things.     ║
+║   The beauty you see in things     ║
+║   is the beauty you reflect.       ║
 ║                                    ║
 ╚════════════════════════════════════╝
 ```
