@@ -1,169 +1,297 @@
-<div align="center">
-  
-  # ✨ Hi, I'm Karla ✨
-  ### 🚀 Full Stack Developer | ML Enthusiast | Backend Specialist 🧠
-  
-  <img src="https://komarev.com/ghpvc/?username=cici160401&label=PROFILE%20VIEWS&color=d946ef&style=for-the-badge&logo=github" alt="cici160401" />
-  
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=cici160401&theme=darkhub&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karla's Digital Garden</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=VT323&family=Space+Mono:wght@400;700&display=swap');
 
-</div>
-
----
-
-## 🎨 About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhimanyuPathania/abhimanyuPathania/main/dev.gif" alt="Coding">
-
-> A passionate **Backend Developer** from 🇪🇨 **Ecuador** | Crafting elegant APIs with **.NET & Node.js** | Building intelligent systems with **ML/AI** 🤖
-
-```python
-def karla():
-    return {
-        "role": "Full Stack Developer",
-        "specialization": "Backend & Machine Learning",
-        "current_focus": "Building scalable APIs & ML solutions",
-        "passion": "Clean code + Beautiful architecture"
+    :root {
+      --pink: #ff7ac8;
+      --hot-pink: #ff3ca7;
+      --purple: #a855f7;
+      --blue: #7dd3fc;
+      --mint: #86efac;
+      --cream: #fff7ed;
+      --dark: #13051f;
+      --panel: rgba(35, 15, 58, 0.88);
+      --border: #ffb3e6;
     }
-```
 
-### 🔭 Currently
+    * { box-sizing: border-box; }
 
-- 💼 Building robust APIs with **.NET** and **VueJS**
-- 🧠 Diving deep into **Machine Learning**, **Deep Learning** & **MLOps**
-- 🎯 Seeking to collaborate on **ML/AI Projects**
-- 🌟 Open to challenging backend development roles
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--cream);
+      font-family: 'Space Mono', monospace;
+      background:
+        radial-gradient(circle at 20% 20%, rgba(255, 122, 200, .35), transparent 25%),
+        radial-gradient(circle at 80% 10%, rgba(125, 211, 252, .3), transparent 25%),
+        radial-gradient(circle at 50% 90%, rgba(168, 85, 247, .35), transparent 30%),
+        #13051f;
+      overflow-x: hidden;
+    }
 
-### 📫 Let's Connect!
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px);
+      background-size: 32px 32px;
+      opacity: .35;
+    }
 
-<p align="center">
-  <a href="https://linkedin.com/in/karladelcisneaguilaralonso" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://kaggle.com/karlaaguilar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="50" />
-  </a>
-  <a href="https://www.leetcode.com/cici" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" />
-  </a>
-  <a href="mailto:raliuga2001@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="50" width="50" />
-  </a>
-</p>
+    .page {
+      width: min(1040px, 92vw);
+      margin: 40px auto;
+      position: relative;
+      z-index: 1;
+    }
 
----
+    .hero {
+      text-align: center;
+      padding: 36px 24px;
+      border: 3px double var(--border);
+      background: linear-gradient(135deg, rgba(255,122,200,.18), rgba(125,211,252,.12)), var(--panel);
+      border-radius: 28px;
+      box-shadow: 0 0 35px rgba(255, 122, 200, .35), inset 0 0 35px rgba(255,255,255,.05);
+    }
 
-## 🛠️ Tech Arsenal
+    h1 {
+      margin: 0;
+      font-family: 'VT323', monospace;
+      font-size: clamp(3rem, 9vw, 6rem);
+      letter-spacing: 2px;
+      color: #fff;
+      text-shadow: 4px 4px 0 var(--hot-pink), 8px 8px 0 rgba(125,211,252,.7);
+    }
 
-### 🎨 **Frontend**
-<p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
-</p>
+    .subtitle {
+      font-size: 1rem;
+      color: #ffe4f4;
+      margin-top: 12px;
+    }
 
-### 🔥 **Backend & APIs**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 10px;"/>
-</p>
+    .marquee {
+      margin-top: 24px;
+      overflow: hidden;
+      border: 2px dashed var(--pink);
+      background: rgba(0,0,0,.35);
+      border-radius: 999px;
+      white-space: nowrap;
+    }
 
-### 💾 **Databases & Storage**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="margin: 10px;"/>
-</p>
+    .marquee span {
+      display: inline-block;
+      padding: 12px 0;
+      animation: scroll 18s linear infinite;
+    }
 
-### ☁️ **DevOps & Cloud**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" style="margin: 10px;"/>
-</p>
+    @keyframes scroll {
+      from { transform: translateX(100%); }
+      to { transform: translateX(-100%); }
+    }
 
-### 🧪 **Testing & QA**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" style="margin: 10px;"/>
-</p>
+    .ascii {
+      margin: 28px auto 0;
+      text-align: left;
+      max-width: 520px;
+      padding: 16px;
+      background: rgba(0,0,0,.42);
+      border: 1px solid rgba(255,255,255,.25);
+      border-radius: 18px;
+      color: var(--mint);
+      font-family: 'VT323', monospace;
+      font-size: 1.35rem;
+      box-shadow: inset 0 0 20px rgba(134,239,172,.15);
+      white-space: pre-wrap;
+    }
 
-### 🤖 **Machine Learning & Data Science**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin: 10px;"/>
-</p>
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 20px;
+      margin-top: 24px;
+    }
 
-### 🎮 **Design & Game Dev**
-<p align="center">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 10px;"/>
-</p>
+    .card {
+      grid-column: span 6;
+      padding: 22px;
+      background: var(--panel);
+      border: 2px solid rgba(255,179,230,.8);
+      border-radius: 24px;
+      box-shadow: 0 0 22px rgba(168,85,247,.25);
+    }
 
----
+    .wide { grid-column: span 12; }
 
-## 📊 GitHub Analytics
+    .card h2 {
+      margin: 0 0 14px;
+      font-family: 'VT323', monospace;
+      font-size: 2.2rem;
+      color: #fff;
+      text-shadow: 2px 2px 0 var(--purple);
+    }
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cici160401&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cici160401&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</div>
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cici160401&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
+    .badge {
+      padding: 9px 12px;
+      color: #1f1230;
+      font-weight: 700;
+      background: linear-gradient(90deg, #ffd6ef, #d6f4ff, #e4ffd6);
+      border: 2px solid #fff;
+      border-radius: 999px;
+      box-shadow: 4px 4px 0 rgba(0,0,0,.35);
+    }
 
----
+    .project {
+      padding: 14px;
+      border: 1px dashed rgba(255,255,255,.4);
+      border-radius: 16px;
+      margin-bottom: 12px;
+      background: rgba(255,255,255,.06);
+    }
 
-## 🎯 Current Goals
+    .project strong { color: var(--blue); }
 
-- 🚀 **Advance in ML/AI**: Mastering Deep Learning and MLOps
-- 💡 **Build Impact**: Creating solutions that solve real-world problems
-- 📚 **Continuous Learning**: Staying updated with latest tech trends
-- 🤝 **Open Source**: Contributing to meaningful projects
+    .status-box {
+      font-family: 'VT323', monospace;
+      font-size: 1.45rem;
+      color: #ffe4f4;
+      line-height: 1.15;
+      background: rgba(0,0,0,.4);
+      border-radius: 18px;
+      padding: 18px;
+      border: 1px solid rgba(255,255,255,.25);
+      white-space: pre-wrap;
+    }
 
----
+    .links a {
+      display: inline-block;
+      margin: 8px 8px 0 0;
+      padding: 10px 14px;
+      color: #fff;
+      text-decoration: none;
+      background: linear-gradient(135deg, var(--hot-pink), var(--purple));
+      border: 2px solid #fff;
+      border-radius: 12px;
+      box-shadow: 5px 5px 0 rgba(0,0,0,.35);
+      transition: transform .2s ease;
+    }
 
-<div align="center">
-  
-  ### ✨ "Code is poetry, and I'm writing a masterpiece" ✨
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d946ef&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;ML+Enthusiast;Always+Learning..." alt="Typing SVG" />
+    .links a:hover { transform: translate(-2px, -2px); }
 
-</div>
+    footer {
+      text-align: center;
+      margin: 28px 0 0;
+      color: #ffd6ef;
+      font-family: 'VT323', monospace;
+      font-size: 1.5rem;
+    }
 
----
+    @media (max-width: 760px) {
+      .card { grid-column: span 12; }
+      .ascii, .status-box { font-size: 1.1rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <h1>KARLA'S DIGITAL GARDEN</h1>
+      <p class="subtitle">Software Engineer · AI Explorer · Data & Backend Builder</p>
+      <div class="marquee"><span>Welcome traveler · growing ideas, dashboards, APIs and neural networks · currently debugging reality.exe ·</span></div>
+      <div class="ascii">╔════════════════════════════════╗
+║      LOADING KARLA.EXE...      ║
+║                                ║
+║  ████████████████████ 100%     ║
+║                                ║
+║  STATUS: ONLINE                ║
+║  LOCATION: ECUADOR             ║
+║  MODE: BUILDING THINGS         ║
+╚════════════════════════════════╝</div>
+    </section>
 
-<p align="center">
-  <a href="https://github.com/Cici160401">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/karladelcisneaguilaralonso">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raliuga2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+    <section class="grid">
+      <article class="card wide">
+        <h2>About this garden</h2>
+        <p>Hello traveler. I'm Karla, a software engineer from Ecuador who enjoys building useful software, learning machine learning, reading research papers and creating projects with a little bit of magic.</p>
+        <p>My favorite intersection is where software engineering meets data, AI, agriculture and real-world problems.</p>
+      </article>
 
-<p align="center">
-  <em>Hecho con 💜 por Karla | 2025</em>
-</p>
+      <article class="card">
+        <h2>Current quest log</h2>
+        <div class="status-box">MAIN QUEST:
+  Build AI solutions for agriculture
+
+SIDE QUESTS:
+  - Improve C# and ASP.NET
+  - Study ML and Deep Learning
+  - Build clean APIs
+  - Create research-based projects</div>
+      </article>
+
+      <article class="card">
+        <h2>Digital shrine</h2>
+        <ul>
+          <li>Machine Learning</li>
+          <li>Computer Vision</li>
+          <li>Backend Architecture</li>
+          <li>Agriculture Tech</li>
+          <li>Protein Classification</li>
+          <li>Data Analytics</li>
+        </ul>
+      </article>
+
+      <article class="card wide">
+        <h2>Tech collection</h2>
+        <div class="badge-row">
+          <span class="badge">Python</span>
+          <span class="badge">C#</span>
+          <span class="badge">ASP.NET</span>
+          <span class="badge">FastAPI</span>
+          <span class="badge">React</span>
+          <span class="badge">Vue</span>
+          <span class="badge">MySQL</span>
+          <span class="badge">Docker</span>
+          <span class="badge">TensorFlow</span>
+          <span class="badge">Pandas</span>
+        </div>
+      </article>
+
+      <article class="card wide">
+        <h2>Featured projects</h2>
+        <div class="project"><strong>Spider Venom Classification</strong><br/>Deep learning project for classifying phospholipases using structural protein images.</div>
+        <div class="project"><strong>PlantsGrow AI</strong><br/>AgTech platform idea for crop monitoring and disease detection with AI.</div>
+        <div class="project"><strong>Banana Export Forecasting</strong><br/>Time-series forecasting and dashboards for export analytics.</div>
+        <div class="project"><strong>Portfolio API</strong><br/>FastAPI + MySQL project manager with authentication, categories and comments.</div>
+      </article>
+
+      <article class="card wide links">
+        <h2>Message board</h2>
+        <p>Let's talk about software, machine learning, agriculture, research or weird little internet projects.</p>
+        <a href="https://github.com/Cici160401">GitHub</a>
+        <a href="https://linkedin.com/in/karladelcisneaguilaralonso">LinkedIn</a>
+        <a href="mailto:raliuga2001@gmail.com">Email</a>
+      </article>
+    </section>
+
+    <footer>
+      ╔════════════════════════════════════╗<br/>
+      Thanks for visiting my garden<br/>
+      Come back anytime<br/>
+      ╚════════════════════════════════════╝
+    </footer>
+  </main>
+</body>
+</html>
